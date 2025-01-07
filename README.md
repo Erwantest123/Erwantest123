@@ -9,7 +9,7 @@ Welcome to my project! This repository is where I develop embedded systems, IoT 
 
 ## Contribution Graph
 
-![Contributions](https://ghchart.rshang.github.io/Erwantest123/nyan)
+![Contributions]([https://github.com/Erwantest123/nyan/graphs/participation?h=28&type=sparkline])
 
 ## Description
 
